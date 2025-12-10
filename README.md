@@ -4,16 +4,22 @@
 
 # 👋 Hi, I'm Md Hasnath Karim
 
-💻 **Software Developer | Frontend & MERN Stack Developer** | React.js | Next.js | Node.js | MongoDB |Angualar | Django
+### **Software Developer | Frontend Developer | MERN Stack Developer**
+React.js • Next.js • Node.js • Express • MongoDB • TypeScript • Python • Django
 
-I’m passionate about building responsive, user-friendly, and scalable web applications. With expertise in **React.js, Next.js, Node.js, Express, MongoDB, SQL, SQlite, Angular, Django , TypeScript, JS, Python and modern UI frameworks**, I aim to deliver clean, maintainable, and performance-driven solutions that make a real impact.
+I build **responsive, scalable, and user-centric web applications** with clean architecture and modern frameworks.  
+My experience spans **full-stack development, UI engineering, REST APIs**, and deploying production-ready applications.
+
+---
+
+## 🔥 **About Me**
+I enjoy turning ideas into functional, intuitive digital products.  
+I specialise in **React, Next.js, MERN stack, Angular, Django, SQL**, and modern UI libraries to create maintainable solutions with strong performance and accessibility.
+
+Beyond coding, my background in teaching and administration strengthens my **communication, attention to detail, and problem-solving** skills.
 
 ---
 
-## 👨‍💻 About Me
-I enjoy transforming ideas into reality through code. Whether it’s creating dynamic SPAs with React/Angular or building full-stack applications with the MERN stack, I focus on performance, accessibility, and clean architecture. My background as a tutor and exam invigilator has sharpened my communication skills, attention to detail, and adaptability.
-
----
 
 ## 🔭 What I’m Working On
 - 🚀 A **Parcel Management Website** (full-stack project)
@@ -22,28 +28,32 @@ I enjoy transforming ideas into reality through code. Whether it’s creating dy
 
 ---
 
-## 🧰 Skills
+## 🧠 **Tech Stack**
 
-### Frontend
+### **Frontend**
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </p>
 
-### Backend & Database
+### **Backend & Databases**
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </p>
 
-### Tools
+### **Tools & Platforms**
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -55,16 +65,46 @@ I enjoy transforming ideas into reality through code. Whether it’s creating dy
 
 ---
 
-## 📊 GitHub Stats
+
+## 🧩 **Featured Projects**
+
+### **BloodBridge – Blood Donation Portal**
+Full-stack platform with dashboards for Donor, Admin, and Volunteer.  
+Features: Role-based access, donation requests, donor search, Stripe payments.  
+Tech: **React, Node.js, Express, MongoDB, Firebase, Tailwind CSS**  
+Repo: [Client](https://github.com/hasnathg/bloodbridge-client) | [Server](https://github.com/hasnathg/bloodbridge-server)
+
+
+---
+
+### **Bulk Cartel – B2B Wholesale Marketplace**
+Marketplace for suppliers and retailers with secure authentication and order handling.  
+Features: JWT auth, product CRUD, cart system, private routes, filtering.  
+Tech: **React, Node.js, Express, MongoDB, Firebase, Tailwind CSS**  
+Repo: [Client](https://github.com/hasnathg/bulkcartel-client) | [Server](https://github.com/hasnathg/bulkcartel-server)
+
+
+---
+
+### **Green Circle – Gardening Community Hub**
+Community platform for sharing gardening tips and events.  
+Features: Tips CRUD, authentication, dashboards, event posting.  
+Tech: **React, Firebase, MongoDB, DaisyUI**  
+Repo: [Client](https://github.com/hasnathg/greencircle-client) | [Server](https://github.com/hasnathg/greencircle-server)
+
+
+---
+
+## 📊 GitHub Analytics
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasnathg&theme=react" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnathg&show_icons=true&theme=react" height="165" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=hasnathg&theme=react" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasnathg&show_icons=true&theme=react" />
 </p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnathg&layout=compact&theme=react" />
 </p>
-
----
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-hasnath-karim/)  
