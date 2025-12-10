@@ -96,12 +96,18 @@ Repo: [Client](https://github.com/hasnathg/GreenCircle_client) | [Server](https:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Overview
 
-![Followers](https://img.shields.io/github/followers/hasnathg?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/hasnathg?style=for-the-badge)
-![Repos](https://img.shields.io/github/repo-count/hasnathg?style=for-the-badge)
-![Commits](https://img.shields.io/github/commit-activity/y/hasnathg?style=for-the-badge)
+I’m actively developing projects across multiple technologies including:
+
+- **React & MERN Stack:** Full-stack applications with authentication, dashboards, REST APIs, and role-based access  
+- **Python & Django:** Backend systems, models, forms, CRUD logic, and MVT architecture  
+- **Angular:** Component-driven UI development and TypeScript-based SPA architecture  
+- **Databases:** MongoDB, Firebase, MySQL, SQLite, and optimised data modelling  
+
+My GitHub reflects continuous learning, full-stack experimentation, and building real-world, production-ready projects.  
+I focus on clean architecture, best practices, and scalable application design rather than popularity metrics.
+
 
 
 
