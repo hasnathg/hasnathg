@@ -4,14 +4,14 @@
 
 # 👋 Hi, I'm Md Hasnath Karim
 
-💻 **Frontend & MERN Stack Developer** | React.js | Next.js | Node.js | MongoDB  
+💻 **Software Developer | Frontend & MERN Stack Developer** | React.js | Next.js | Node.js | MongoDB |Angualar | Django
 
-I’m passionate about building responsive, user-friendly, and scalable web applications. With expertise in **React.js, Next.js, Node.js, Express, MongoDB, and modern UI frameworks**, I aim to deliver clean, maintainable, and performance-driven solutions that make a real impact.
+I’m passionate about building responsive, user-friendly, and scalable web applications. With expertise in **React.js, Next.js, Node.js, Express, MongoDB, SQL, SQliteAngular, Django , TypeScript, JS, Python and modern UI frameworks**, I aim to deliver clean, maintainable, and performance-driven solutions that make a real impact.
 
 ---
 
 ## 👨‍💻 About Me
-I enjoy transforming ideas into reality through code. Whether it’s creating dynamic SPAs with React or building full-stack applications with the MERN stack, I focus on performance, accessibility, and clean architecture. My background as a tutor and exam invigilator has sharpened my communication skills, attention to detail, and adaptability.
+I enjoy transforming ideas into reality through code. Whether it’s creating dynamic SPAs with React/Angular or building full-stack applications with the MERN stack, I focus on performance, accessibility, and clean architecture. My background as a tutor and exam invigilator has sharpened my communication skills, attention to detail, and adaptability.
 
 ---
 
