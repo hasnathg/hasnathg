@@ -6,7 +6,7 @@
 
 💻 **Software Developer | Frontend & MERN Stack Developer** | React.js | Next.js | Node.js | MongoDB |Angualar | Django
 
-I’m passionate about building responsive, user-friendly, and scalable web applications. With expertise in **React.js, Next.js, Node.js, Express, MongoDB, SQL, SQliteAngular, Django , TypeScript, JS, Python and modern UI frameworks**, I aim to deliver clean, maintainable, and performance-driven solutions that make a real impact.
+I’m passionate about building responsive, user-friendly, and scalable web applications. With expertise in **React.js, Next.js, Node.js, Express, MongoDB, SQL, SQlite, Angular, Django , TypeScript, JS, Python and modern UI frameworks**, I aim to deliver clean, maintainable, and performance-driven solutions that make a real impact.
 
 ---
 
