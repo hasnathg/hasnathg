@@ -39,7 +39,8 @@ Beyond coding, my background in teaching and administration strengthens my **com
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+
 </p>
 
 ### **Backend & Databases**
@@ -81,7 +82,7 @@ Repo: [Client](https://github.com/hasnathg/bloodbridge-client) | [Server](https:
 Marketplace for suppliers and retailers with secure authentication and order handling.  
 Features: JWT auth, product CRUD, cart system, private routes, filtering.  
 Tech: **React, Node.js, Express, MongoDB, Firebase, Tailwind CSS**  
-Repo: [Client](https://github.com/hasnathg/bulkcartel-client) | [Server](https://github.com/hasnathg/bulkcartel-server)
+Repo: [Client](https://github.com/hasnathg/BulkCartel_client) | [Server](https://github.com/hasnathg/BulkCartel_server)
 
 
 ---
@@ -90,7 +91,7 @@ Repo: [Client](https://github.com/hasnathg/bulkcartel-client) | [Server](https:/
 Community platform for sharing gardening tips and events.  
 Features: Tips CRUD, authentication, dashboards, event posting.  
 Tech: **React, Firebase, MongoDB, DaisyUI**  
-Repo: [Client](https://github.com/hasnathg/greencircle-client) | [Server](https://github.com/hasnathg/greencircle-server)
+Repo: [Client](https://github.com/hasnathg/GreenCircle_client) | [Server](https://github.com/hasnathg/GreenCircle_server)
 
 
 ---
@@ -98,13 +99,14 @@ Repo: [Client](https://github.com/hasnathg/greencircle-client) | [Server](https:
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=hasnathg&theme=react" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hasnathg&theme=react" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasnathg&show_icons=true&theme=react" />
 </p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnathg&layout=compact&theme=react" />
 </p>
+
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-hasnath-karim/)  
