@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/hasnathg/hasnathg/blob/main/github%20banner.JPG) 
+![Banner](https://github.com/hasnathg/hasnathg/blob/main/github%20banner.jpg) 
 
 
 # 👋 Hi, I'm Md Hasnath Karim
