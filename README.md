@@ -98,14 +98,11 @@ Repo: [Client](https://github.com/hasnathg/GreenCircle_client) | [Server](https:
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="165" src="https://github-readme-stats-git-main-4f8b9q02v-antonkomarev.vercel.app/api?username=hasnathg&show_icons=true&theme=react" />
-  <img height="165" src="https://streak-stats.demolab.com?user=hasnathg&theme=react" />
-</p>
+![Followers](https://img.shields.io/github/followers/hasnathg?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/hasnathg?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-count/hasnathg?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/y/hasnathg?style=for-the-badge)
 
-<p>
-  <img src="https://github-readme-stats-git-main-4f8b9q02v-antonkomarev.vercel.app/api/top-langs/?username=hasnathg&layout=compact&theme=react" />
-</p>
 
 
 
